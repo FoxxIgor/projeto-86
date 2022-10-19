@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(38, 221, 191);
+    color:whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#myCanvas{
+    border: 10px solid gray;
+    background-color: aliceblue;
+}
